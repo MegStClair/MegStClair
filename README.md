@@ -8,5 +8,5 @@ I'm a software engineer with a unique background. After years of working in cust
 - :mag: I'm looking for a new opportunity as a full stack or backend developer 
 
 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/megstclair/) | [Email](mailto:meagan.j.stclair@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/meagan-st-clair/) | [Email](mailto:meagan.j.stclair@gmail.com)
 
