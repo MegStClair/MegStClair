@@ -5,7 +5,7 @@ I'm a software engineer with a unique background. After years of working in cust
 
 - 🔭 I’m currently working on my portfolio and creating the SRS for my next project, a family manager app 
 - 🌱 I’m learning and practicing React
-- :mag: I'm looking for a new opportunity as a full stack or backend developer 
+- :mag: I'm looking for a new opportunity as a full stack or backend developer, with interest in customer facing roles as well!
 
 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/meagan-st-clair/) | [Email](mailto:meagan.j.stclair@gmail.com)
